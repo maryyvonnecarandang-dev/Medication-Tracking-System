@@ -24,4 +24,4 @@ and view a summary of the user’s medication schedule.
 
 ## 👥 Intended System Users
 - Patients who often forgot to take their medicines on time
-
+- Individuals who are taking supplements
