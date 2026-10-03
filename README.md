@@ -20,5 +20,8 @@ and view a summary of the user’s medication schedule.
 
   📍 ***Non-Adherence to Medication Duration***\
       - Patients may stop taking medicine earlier than prescribed.
+---
 
+## 👥 Intended System Users
+- Patients who often forgot to take their medicines on time
 
