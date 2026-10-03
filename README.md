@@ -11,3 +11,6 @@ and view a summary of the user’s medication schedule.
 
 ### 📝 Specific Sub-Problems
 - From the general problem, the following specific sub-problems are identified:
+
+  📍 **Patients Often Forget to Take Their Medication Based on the Doctor’s Prescription**\
+      - Patients often forget to take their medicine at the correct time.
