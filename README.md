@@ -18,3 +18,7 @@ and view a summary of the user’s medication schedule.
   📍***Difficulty in Tracking Medicine Intake***\
       - Patients do not have a structured way to record whether they already took their medicine.
 
+  📍 ***Non-Adherence to Medication Duration***\
+      - Patients may stop taking medicine earlier than prescribed.
+
+
