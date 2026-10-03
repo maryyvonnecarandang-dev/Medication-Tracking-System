@@ -8,3 +8,6 @@ and view a summary of the user’s medication schedule.
 
 ## 🚨 General Problem Description
 - Many patients fail to properly follow their prescribed medication schedule. They often forget to take medicines on time, lose track of their intake history, and fail to complete the required duration. This can lead to ineffective treatment and possible health risks.
+
+### 📝 Specific Sub-Problems
+- From the general problem, the following specific sub-problems are identified:
