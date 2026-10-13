@@ -29,4 +29,6 @@ and view a summary of the user’s medication schedule.
 
 ## 🎯 Objectives:
 1. Provide a prescription recording system
+2. Develop a feature that allows a user to track their medicine intake history
+
 
